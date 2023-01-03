@@ -1,0 +1,30 @@
+{
+  "appTitle": "cartips_test",
+  "@appTitle": {
+    "description": "Application title"
+  },
+
+  "homepageTitle": "My codes",
+  "@homepageTitle": {
+    "description": "Appbar title of application homepage"
+  },
+
+  "settingsNavBarItem": "Settings",
+  "@settingsNavBarItem": {"description": "Navigation element name at the screen bottom"},
+
+  "profileNavBarItem": "Profile",
+  "@profileNavBarItem": {"description": "Navigation element name at the screen bottom"},
+  
+  "allCodes": "All codes",
+  "@allCodes": {"description": "Tabbar element name listing all qr-codes"},
+  "favoriteCodes": "Favorite",
+  "@favoriteCodes": {"description": "Tabbar element name listing favorite qr-codes"},
+  "carCodes": "Car",
+  "@carCodes": {"description": "Tabbar element name listing car qr-codes"},
+  "addCode": "Add",
+  "@addCode": {"description": "Tabbar element name leading to qr-code addition"},
+
+  "error": "Error",
+  "@error": {"description": "Wrong calculated element name"}
+
+}
