@@ -5,13 +5,9 @@
   },
 
   "homepageTitle": "My codes",
-  "@homepageTitle": {
-    "description": "Appbar title of application homepage"
-  },
-
+  "@homepageTitle": {"description": "Appbar title of application homepage"},
   "settingsNavBarItem": "Settings",
   "@settingsNavBarItem": {"description": "Navigation element name at the screen bottom"},
-
   "profileNavBarItem": "Profile",
   "@profileNavBarItem": {"description": "Navigation element name at the screen bottom"},
   
@@ -23,6 +19,17 @@
   "@carCodes": {"description": "Tabbar element name listing car qr-codes"},
   "addCode": "Add",
   "@addCode": {"description": "Tabbar element name leading to qr-code addition"},
+
+  "myCarCode": "My car",
+  "@myCarCode": {"description": "QR-code name option"},
+  "myChildCode": "My child",
+  "@myChildCode": {"description": "QR-code name option"},
+  "myFlatCode": "My flat",
+  "@myFlatCode": {"description": "QR-code name option"},
+  "myWalletCode": "My wallet",
+  "@myWalletCode": {"description": "QR-code name option"},
+  "myPhoneCode": "My phone",
+  "@myPhoneCode": {"description": "QR-code name option"},
 
   "error": "Error",
   "@error": {"description": "Wrong calculated element name"}

@@ -6,10 +6,8 @@
 
   "homepageTitle": "Мои коды",
   "@homepageTitle": {"description": "Заголовок главной страницы приложения"},
-
   "settingsNavBarItem": "Настройки",
   "@settingsNavBarItem": {"description": "Название элемента навигации в нижней части экрана"},
-
   "profileNavBarItem": "Профиль",
   "@profileNavBarItem": {"description": "Название элемента навигации в нижней части экрана"},
   

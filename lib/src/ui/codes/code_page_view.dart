@@ -92,13 +92,13 @@ class _CodePageViewState extends State<CodePageView>
       body: TabBarView(
         controller: categoryTabController,
         physics: const NeverScrollableScrollPhysics(),
-        children: const [
-          CodeItemListView(),
+        children: [
+          const CodeItemListView(),
 
           /// Mock data for other categories.
-          Center(child: Text('Избранное')),
-          Center(child: Text('Машина')),
-          Center(child: Text('Добавить')),
+          Center(child: Text(AppLocalizations.of(context)!.favoriteCodes)),
+          Center(child: Text(AppLocalizations.of(context)!.carCodes)),
+          Center(child: Text(AppLocalizations.of(context)!.addCode)),
         ],
       ),
     );
